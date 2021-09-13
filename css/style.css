@@ -1,0 +1,81 @@
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    
+}
+/* .name-header {
+    margin-left: 22%;
+} */
+
+.kalbos{
+    width: 75%;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-collapse: collapse;
+}
+.kalbos td, .kalbos th{ 
+    
+
+    font-size: 20px;
+    border: 2px solid #01090c;
+    
+}
+header{
+    margin-bottom: 10px;
+    border: darkblue 10px;
+    overflow: hidden;
+
+    
+}
+
+.profile-img {
+    float:right;
+    max-height: 150px;
+    width: auto;
+}
+
+
+
+
+
+.apie{
+    font-size: 15px;
+    height: 80px;
+    margin-top: 20px;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: darkblue;
+    
+
+}
+.hobis{
+    margin: 20px,40px;
+}
+.hobis li{
+    font-size: 15px;
+}
+.mokslai{
+    border: firebrick;
+}
+.nuotrauka {
+    max-width: 100px;
+    max-height: 100px;
+  
+    
+
+}
+
+body{
+     margin-left: 15%;
+    margin-right: 15%;
+    background-image: url("/backGround.jpg");
+    background-size: cover; 
+ } 
+.textField{
+    margin-left: auto;
+    margin-right: auto;
+}
+#letterText{
+    width: 300px;
+    height: 150px;
+}

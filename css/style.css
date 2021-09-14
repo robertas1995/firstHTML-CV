@@ -75,7 +75,7 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
-#letterText{
-    width: 300px;
-    height: 150px;
+.laiskas input{
+    width: 150px;
+    height: 100px;
 }
